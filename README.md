@@ -4,7 +4,7 @@
 ## Requirements
 ## Installation
 
-'''bash
+```bash
 chmod +x health_checker.sh
 ./health_checker.sh
-'''
+```
