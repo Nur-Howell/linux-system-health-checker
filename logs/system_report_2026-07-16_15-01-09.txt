@@ -1,5 +1,5 @@
-UBUSAND
-vboxuser
+HOSTNAME
+USER
 Thu Jul 16 03:01:09 PM UTC 2026
 7.0.0-27-generic
  15:01:09 up 56 min,  1 user,  load average: 1.30, 0.63, 0.31
