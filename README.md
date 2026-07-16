@@ -39,7 +39,7 @@ chmod +x health_checker.sh
 Run the script:
 
 ```bash
-health_checker.sh
+./health_checker.sh
 ```
 
 > [!NOTE]
