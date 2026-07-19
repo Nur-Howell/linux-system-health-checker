@@ -38,7 +38,7 @@ RESET=$'\e[0m'
 if [ "$apache_act" = "active" ]; then
 echo "${GREEN}apache2 is running...${RESET}"
 else
-echo "${RED}apache2 is not running...${RED}"
+echo "${RED}apache2 is not running...${RESET}"
 fi
 
 if [ "$ssh_act" = "active" ]; then
