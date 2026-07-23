@@ -1,0 +1,10 @@
+# Generated log files
+logs/*
+!logs/.gitkeep
+
+# VS Code settings
+.vscode/
+
+# Temporary editor files
+*~
+*.swp
