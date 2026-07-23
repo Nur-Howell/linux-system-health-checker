@@ -44,3 +44,5 @@ Run the script:
 
 > [!NOTE]
 > This project uses `systemctl` to check system services. It is intended for Linux distributions that use **systemd**.
+## Screenshots (v1.1)
+<img src="screenshots/Screenshot From 2026-07-23 06-50-10.png" width="720">
